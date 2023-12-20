@@ -63,8 +63,8 @@ This Github provides instructions to get started with the NFC module.
       |---|---|---|
       |VBUS | 5V | Positive Supply |
       |GND | GND | Ground |
-      |GP4 | RX | Serial UART connection |
-      |GP5 | TX  | Serial UART connection |
+      |GP0 | RX | Serial UART connection |
+      |GP1 | TX  | Serial UART connection |
 
      
    - After this, you can follow the same example (code) and instructions available on [Pico  NFC Expansion GitHub](https://github.com/sbcshop/Pico_NFC_Expansion_Software/tree/main/examples) related to NFC operations.
