@@ -31,7 +31,7 @@ This Github provides instructions to get started with the NFC module.
 <img src="https://github.com/sbcshop/NFC_Breakout_Software/blob/main/images/img1.png">
 
 ### NFC Breakout Connection
-
+  <img src = "https://github.com/sbcshop/NFC_Breakout_Software/blob/main/images/breakout%20usb.png">
   - Here you will need to connect Type C to the expansion board.
     
 **Note:** BUZ pin -> When a card is detected, the signal goes from a high state to a low state and then back to a high state again.
