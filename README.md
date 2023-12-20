@@ -32,8 +32,7 @@ This Github provides instructions to get started with the NFC module.
 
 ### NFC module USB to TTL Hardware Connection
 
-  - Here you will need an NFC module with any USB to TTL converter, for this guide, we are using one available [here](https://shop.sb-components.co.uk/products/usb-ttl?variant=40312245059667).
-
+  - Here you will need to connect type c to the expansion board.
      **Note:** BUZ pin -> When a card is detected, the signal goes from a high state to a low state and then back to a high state again.
     
   - Once the NFC Module and USB-TTL converter are connected, attach the converter to the USB port of the computer or laptop and check your COM Port in the device manager.
