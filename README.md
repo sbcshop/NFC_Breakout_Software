@@ -30,7 +30,7 @@ This Github provides instructions to get started with the NFC module.
 
 <img src="https://github.com/sbcshop/NFC_Breakout_Software/blob/main/images/img1.png">
 
-### NFC module USB to TTL Hardware Connection
+### NFC Breakout Connection
 
   - Here you will need to connect Type C to the expansion board.
     
