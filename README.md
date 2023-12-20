@@ -44,7 +44,15 @@ This Github provides instructions to get started with the NFC module.
     
   - Download the software folder provided [here](https://github.com/sbcshop/NFC_Module/tree/main/softwares), and run the .exe file, so you will see the below interface of the software.
     
-    <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/software_interface.png" width="569" height="293">
+     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/software_interface.png">
+     
+     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/img12.png"> 
+     
+     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/img_1.JPG">
+     
+     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/img13.JPG">
+     
+     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/img15.JPG">
 
   - Checkout [Manual](https://github.com/sbcshop/NFC_Module/blob/main/documents/NFC%20Module%20Software%20Usage%20Instruction%20Manual.pdf) having instructions on how to use the NFC module with software for setup and configuration.
 
