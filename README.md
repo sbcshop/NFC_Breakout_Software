@@ -36,7 +36,7 @@ This Github provides instructions to get started with the NFC module.
     
 **Note:** BUZ pin -> When a card is detected, the signal goes from a high state to a low state and then back to a high state again.
     
-  - Once the NFC Module and USB-TTL converter are connected, attach the converter to the USB port of the computer or laptop and check your COM Port in the device manager.
+  - Once the NFC Breakout is connected, check your COM Port in the device manager.
     
     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/device_manager_comport_view.png" width="584" height="425">
 
