@@ -67,7 +67,7 @@ This Github provides instructions to get started with the NFC module.
       |GP5 | TX  | Serial UART connection |
 
      
-   - After this, you can follow the same example and instructions available on [ReadPi NFC GitHub](https://github.com/sbcshop/ReadPi_NFC_Software/tree/main#example-codes) related to NFC operations.
+   - After this, you can follow the same example (code) and instructions available on [Pico  NFC Expansion GitHub](https://github.com/sbcshop/Pico_NFC_Expansion_Software/tree/main/examples) related to NFC operations.
 
  ## Resources
   * [NFC Module Command Manual](https://github.com/sbcshop/ReadPi_NFC_Software/blob/main/documents/NFC%20Module%20command%20Manual.pdf)
