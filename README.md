@@ -1,8 +1,8 @@
-# NFC_Module
+# NFC_Breakout
 The NFC module is an excellent solution for enthusiasts, makers, and developers who want to harness the power of NFC technology, whether it's for prototyping or building advanced applications, the NFC module delivers the functionality, reliability, and flexibility needed for a wide range of projects.
 The term "NFC" refers to a short-range, high-frequency wireless communication technology that is mostly used in mobile or portable devices. It enables radio connection to be established by just touching two phones together or keeping them a few millimeters apart. Holding two devices together and using a wireless communication link for the final few centimeters makes choosing a target straightforward. Induction-coupling, which uses magnetic induction between two loop antennas operating at a frequency of 13.56MHZ with data rates ranging from 106 kbit/s to 424 kbit/s, is the primary communication method used in NFC. 
 
-This github provides instructions to get started with NFC module.
+This Github provides instructions to get started with the NFC module.
 ### Features:
 - Adopt special base station RF chip, stable performance, good compatibility
 - Both Read/Write operation possible
@@ -22,7 +22,7 @@ This github provides instructions to get started with NFC module.
 - Operating Temperature: -15°C to +55°C
 - Storage Temperature: -20°C to +70°C
 
-## Getting Started with NFC module
+## Getting Started with NFC Module
 ### Pinout 
 
 <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/nfc_pinout.jpg">
@@ -34,7 +34,7 @@ This github provides instructions to get started with NFC module.
 
 ### NFC module USB to TTL Hardware Connection
 
-  - Here you will need NFC module with any USB to TTL converter, for this guide we are using one which available [here](https://shop.sb-components.co.uk/products/usb-ttl?variant=40312245059667).
+  - Here you will need an NFC module with any USB to TTL converter, for this guide, we are using one available [here](https://shop.sb-components.co.uk/products/usb-ttl?variant=40312245059667).
 
     |USB to TTL (CP2102 Variants) | NFC Module | Function |
     |---|---|---|
@@ -50,7 +50,7 @@ This github provides instructions to get started with NFC module.
     |TXD | RXD | UART Connection | 
     |RXD | TXD | UART Connection |
 
-    **Note:** Do cross connection of UART pins if module won't respond or showing connection failed in software application
+    **Note:** Do cross connection of UART pins if the module won't respond or shows connection failed in the software application
 
     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/NFCmodule_ttl.png" width="447" height="321">
 
@@ -62,22 +62,22 @@ This github provides instructions to get started with NFC module.
     | ANT1 | Dual Antenna 1 | 
     | ANT2 | Dual Antenna 2 |
     
-     **Note:** BUZ pin -> when a card is detected, the signal goes from a high state to a low state and then back to a high state again.
+     **Note:** BUZ pin -> When a card is detected, the signal goes from a high state to a low state and then back to a high state again.
     
-  - Once the NFC Module and USB-TTL converter are connected, attach the converter to the USB port of the computer or laptop and check your COM Port in device manager.
+  - Once the NFC Module and USB-TTL converter are connected, attach the converter to the USB port of the computer or laptop and check your COM Port in the device manager.
     
     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/device_manager_comport_view.png" width="584" height="425">
 
-    If you don't have CH340 driver installed in PC/laptop, then checkout [CH340 Driver Installation Manual Guide](https://github.com/sbcshop/NFC_Module/blob/main/documents/CH340%20Driver%20installation%20steps.pdf).
+    If you don't have the CH340 driver installed on your PC/laptop, then check out [CH340 Driver Installation Manual Guide](https://github.com/sbcshop/NFC_Module/blob/main/documents/CH340%20Driver%20installation%20steps.pdf).
     
-  - Download software folder provided [here](https://github.com/sbcshop/NFC_Module/tree/main/softwares), and run .exe file, so you will see below interface of software.
+  - Download the software folder provided [here](https://github.com/sbcshop/NFC_Module/tree/main/softwares), and run the .exe file, so you will see the below interface of the software.
     
     <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/software_interface.png" width="569" height="293">
 
-  - Checkout [Manual](https://github.com/sbcshop/NFC_Module/blob/main/documents/NFC%20Module%20Software%20Usage%20Instruction%20Manual.pdf) having instructions how to use NFC module with software for setup and configuration.
+  - Checkout [Manual](https://github.com/sbcshop/NFC_Module/blob/main/documents/NFC%20Module%20Software%20Usage%20Instruction%20Manual.pdf) having instructions on how to use the NFC module with software for setup and configuration.
 
  ### NFC module with Raspberry Pi Pico
-   - Follow the below connection to use NFC module with Pico/ Pico W
+   - Follow the below connection to use the NFC module with Pico/ Pico W
      
       |Pico | NFC Module | Function |
       |---|---|---|
@@ -88,7 +88,7 @@ This github provides instructions to get started with NFC module.
 
      <img src="https://github.com/sbcshop/NFC_Module/blob/main/images/NFC_pico_interfacing.png" width="420" height="323">
      
-   - After this you can follow same example and instructions available on [ReadPi NFC GitHub](https://github.com/sbcshop/ReadPi_NFC_Software/tree/main#example-codes) related to NFC operations.
+   - After this, you can follow the same example and instructions available on [ReadPi NFC GitHub](https://github.com/sbcshop/ReadPi_NFC_Software/tree/main#example-codes) related to NFC operations.
 
  ## Resources
   * [NFC Module Command Manual](https://github.com/sbcshop/ReadPi_NFC_Software/blob/main/documents/NFC%20Module%20command%20Manual.pdf)
@@ -104,7 +104,7 @@ This github provides instructions to get started with NFC module.
 
 ## Product License
 
-This is ***open source*** product. Kindly check LICENSE.md file for more information.
+This is ***open source*** product. Kindly check the LICENSE.md file for more information.
 
 Please contact support@sb-components.co.uk for technical support.
 <p align="center">
