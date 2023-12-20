@@ -70,6 +70,7 @@ This Github provides instructions to get started with the NFC module.
    - After this, you can follow the same example (code) and instructions available on [Pico  NFC Expansion GitHub](https://github.com/sbcshop/Pico_NFC_Expansion_Software/tree/main/examples) related to NFC operations.
 
  ## Resources
+  * [Hardware data](https://github.com/sbcshop/NFC_Breakout_Hardware)
   * [NFC Module Command Manual](https://github.com/sbcshop/ReadPi_NFC_Software/blob/main/documents/NFC%20Module%20command%20Manual.pdf)
   * [NTAG213/215/216 Datasheet](https://github.com/sbcshop/ReadPi_NFC_Software/blob/main/documents/NTAG213_215_216.pdf)
   * [MicroPython getting started for RPi Pico/Pico W](https://docs.micropython.org/en/latest/rp2/quickref.html)
