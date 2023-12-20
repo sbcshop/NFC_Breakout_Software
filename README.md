@@ -28,7 +28,7 @@ This Github provides instructions to get started with the NFC module.
 ## Getting Started with NFC Module
 ### Pinout 
 
-<img src="https://github.com/sbcshop/NFC_Breakout_Software/blob/main/images/img3.png">
+<img src="https://github.com/sbcshop/NFC_Breakout_Software/blob/main/images/img1.png">
 
 ### NFC module USB to TTL Hardware Connection
 
