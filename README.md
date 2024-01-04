@@ -13,7 +13,9 @@ This Github provides instructions to get started with the NFC module.
 - Communication Interface: TTL
 - Support Protocols like ISO14443B, ISO18092
 - Contactless card supports like NTAG213, Mifare one S50, Mifare one S70, ultralight, FM11RF08
-
+-  Multi-tune Buzzer to add audio alert into the project
+-  Status LED for board power, and Tag Scan indication
+-  USB (power and UART)
 ### Specifications:
 - NFC Module Frequency: 13.56MHz
 - Reading Distance: >50mm (The effective distance is related to the IC card and the use environment)
