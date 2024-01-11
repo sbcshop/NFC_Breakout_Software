@@ -78,7 +78,10 @@ This Github provides instructions to get started with the NFC module.
   * [MicroPython getting started for RPi Pico/Pico W](https://docs.micropython.org/en/latest/rp2/quickref.html)
   * [Pico W Getting Started](https://projects.raspberrypi.org/en/projects/get-started-pico-w)
 
-## Related Products
+## Related Products 
+   * [Pico NFC Expansion](https://shop.sb-components.co.uk/products/nfc-expansion-for-raspberry-pi-pico?_pos=6&_sid=02d74a383&_ss=r) -  Expansion for Pico
+   * [NFC Breakout](https://shop.sb-components.co.uk/products/nfc-breakout-board?_pos=5&_sid=02d74a383&_ss=r)
+   * [Pico NFC HAT](https://shop.sb-components.co.uk/products/pinfc-nfc-hat-for-raspberry-pi?_pos=7&_sid=02d74a383&_ss=r) - HAT for raspberry pi
    * [ReadPi NFC](https://shop.sb-components.co.uk/products/readpi-an-rfid-nfc-reader-powered-with-raspberry-pi-pico-w?variant=40478483087443) - ReadPi with 13.56MHz NFC reader/writer powered by Raspberry Pi Pico W
    * [ReadPi RFID](https://shop.sb-components.co.uk/products/readpi-an-rfid-nfc-reader-powered-with-raspberry-pi-pico-w?variant=40478483054675) - ReadPi with 125KHz RFID powered by Raspberry Pi Pico W
    * [Raspberry Pi Pico RFID expansion](https://shop.sb-components.co.uk/products/raspberry-pi-pico-rfid-expansion) - RFID expansion board with support to incorporate Pico/Pico W 
